@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.findmypup",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 100,
+        "versionName": "44",
+        "outputFile": "find_my_puppy-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "resources-debug.ap_",
+      "properties": {
+        "packageId": "com.findmypup",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}
